@@ -4,7 +4,8 @@
       "version": "1.0",
        "icon": "images/notification@40px.png",
        "iconSmall": "images/notification@15.png",
-       "category": "messaging"
+       "category": "messaging",
+       "isConfigured":true
    },
    "type": "REST",
    "lang": {
