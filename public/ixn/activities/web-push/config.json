@@ -1,8 +1,8 @@
 {
    "workflowApiVersion": "1.1",
    "metaData": {
-       "icon": "images/notification@40px.png",
-       "iconSmall": "images/notification@15.png",
+       "icon": "images/icon.png",
+       "iconSmall": "images/iconSmall.png",
        "category": "messaging",
        "isConfigured":true
    },
