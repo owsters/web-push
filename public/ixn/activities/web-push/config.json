@@ -3,7 +3,7 @@
    "metaData": {
        "icon": "images/icon.png",
        "iconSmall": "images/iconSmall.png",
-       "category": "messaging",
+       "category": "message",
        "isConfigured":true
    },
    "type": "REST",
